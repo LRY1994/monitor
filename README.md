@@ -1,3 +1,3 @@
 # monitor
 
-简单的css,js,html页面
+自己写的第一个vue运用
